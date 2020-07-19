@@ -1,4 +1,4 @@
-# Ne16 
-test
+# Ne16
 
- * [sim.cpp](https://nbviewer.jupyter.org/github/jinyuyuyu/multi-body_decay_simulation/blob/master/Ne16/sim-cpp.ipynb)
+* 模拟的物理过程
+  * [主程序 sim.cpp](https://jinyuyuyu.github.io/multi-body_decay_simulation/Ne16/man/sim.html)
