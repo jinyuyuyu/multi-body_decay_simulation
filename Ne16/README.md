@@ -10,9 +10,9 @@
 
   * [CPlf](https://jinyuyuyu.github.io/multi-body_decay_simulation/Ne16/man/CPlf.html)：projectile-like fragment，描述2p衰变母核。
   
-  * [CFrame](https://jinyuyuyu.github.io/multi-body_decay_simulation/Ne16/man/CFrame.html)：描述原子核的基本性质和运动学特征，进行速度、能量、动量的相互转换，进行相对论速度变换。
-  
   * CFrag：描述末态粒子的信息、在物质中的反应和在探测器中的探测。
+  
+  * [CFrame](https://jinyuyuyu.github.io/multi-body_decay_simulation/Ne16/man/CFrame.html)：描述原子核的基本性质和运动学特征，进行速度、能量、动量的相互转换和不同坐标系的速度变换 (可选相对论/非相对论)。
   
   * CDecay：描述衰变过程、不变质量谱和关联信息的重建。
   
